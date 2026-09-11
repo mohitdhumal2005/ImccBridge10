@@ -1,6 +1,6 @@
 num=int(input("Enter a num: "))
 if(num==0):
-    print("0 is Sunday")
+    print("sunday")
 elif(num==1):
     print("monday")
 elif(num==2):

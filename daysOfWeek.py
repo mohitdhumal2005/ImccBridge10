@@ -14,5 +14,5 @@ elif(num==5):
 elif(num==6):
     print("saturday")
 else:
-    print("Bye bye")
+    print("Select a Valid input")
     
